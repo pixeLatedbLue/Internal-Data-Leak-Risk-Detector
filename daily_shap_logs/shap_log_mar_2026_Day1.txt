@@ -1,0 +1,35 @@
+
+========================================
+SHAP Log: mar_2026_Day1
+Total Alerts: 3
+========================================
+
+----------------------------------------
+User: DBG0261
+Anomaly Score: -0.1324
+Top Risk Drivers:
+ - N (Increased Risk)
+ - avg_email_size (Increased Risk)
+ - external_emails (Increased Risk)
+ - O (Increased Risk)
+ - A (Increased Risk)
+
+----------------------------------------
+User: DGF0443
+Anomaly Score: -0.1339
+Top Risk Drivers:
+ - N (Increased Risk)
+ - avg_email_size (Increased Risk)
+ - O (Increased Risk)
+ - external_emails (Increased Risk)
+ - A (Increased Risk)
+
+----------------------------------------
+User: MJM0510
+Anomaly Score: -0.1367
+Top Risk Drivers:
+ - N (Increased Risk)
+ - avg_email_size (Increased Risk)
+ - O (Increased Risk)
+ - external_emails (Increased Risk)
+ - A (Increased Risk)

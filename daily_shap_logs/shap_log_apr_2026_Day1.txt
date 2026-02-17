@@ -1,0 +1,15 @@
+
+========================================
+SHAP Log: apr_2026_Day1
+Total Alerts: 1
+========================================
+
+----------------------------------------
+User: SVS0871
+Anomaly Score: -0.1367
+Top Risk Drivers:
+ - N (Increased Risk)
+ - external_emails (Increased Risk)
+ - avg_email_size (Increased Risk)
+ - O (Increased Risk)
+ - A (Increased Risk)

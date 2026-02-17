@@ -1,0 +1,105 @@
+
+========================================
+SHAP Log: mar_2026_Day11
+Total Alerts: 100
+========================================
+
+----------------------------------------
+User: ADD0846
+Anomaly Score: -0.1784
+Top Risk Drivers:
+ - N (Increased Risk)
+ - external_emails (Increased Risk)
+ - attachments_sent (Increased Risk)
+ - O (Increased Risk)
+ - total_emails (Increased Risk)
+
+----------------------------------------
+User: AJC0840
+Anomaly Score: -0.1805
+Top Risk Drivers:
+ - N (Increased Risk)
+ - external_emails (Increased Risk)
+ - attachments_sent (Increased Risk)
+ - total_emails (Increased Risk)
+ - O (Increased Risk)
+
+----------------------------------------
+User: ANM0123
+Anomaly Score: -0.1966
+Top Risk Drivers:
+ - N (Increased Risk)
+ - external_emails (Increased Risk)
+ - attachments_sent (Increased Risk)
+ - total_emails (Increased Risk)
+ - O (Increased Risk)
+
+----------------------------------------
+User: ANP0555
+Anomaly Score: -0.1816
+Top Risk Drivers:
+ - N (Increased Risk)
+ - external_emails (Increased Risk)
+ - attachments_sent (Increased Risk)
+ - usb_insertions (Increased Risk)
+ - O (Increased Risk)
+
+----------------------------------------
+User: ARA0252
+Anomaly Score: -0.1722
+Top Risk Drivers:
+ - N (Increased Risk)
+ - external_emails (Increased Risk)
+ - attachments_sent (Increased Risk)
+ - O (Increased Risk)
+ - total_emails (Increased Risk)
+
+----------------------------------------
+User: BMT0528
+Anomaly Score: -0.179
+Top Risk Drivers:
+ - N (Increased Risk)
+ - external_emails (Increased Risk)
+ - attachments_sent (Increased Risk)
+ - total_emails (Increased Risk)
+ - O (Increased Risk)
+
+----------------------------------------
+User: BRS0734
+Anomaly Score: -0.1795
+Top Risk Drivers:
+ - N (Increased Risk)
+ - external_emails (Increased Risk)
+ - attachments_sent (Increased Risk)
+ - total_emails (Increased Risk)
+ - O (Increased Risk)
+
+----------------------------------------
+User: BSA0431
+Anomaly Score: -0.1773
+Top Risk Drivers:
+ - N (Increased Risk)
+ - external_emails (Increased Risk)
+ - attachments_sent (Increased Risk)
+ - O (Increased Risk)
+ - total_emails (Increased Risk)
+
+----------------------------------------
+User: BWH0813
+Anomaly Score: -0.1975
+Top Risk Drivers:
+ - N (Increased Risk)
+ - external_emails (Increased Risk)
+ - attachments_sent (Increased Risk)
+ - total_emails (Increased Risk)
+ - usb_insertions (Increased Risk)
+
+----------------------------------------
+User: CAM0681
+Anomaly Score: -0.1869
+Top Risk Drivers:
+ - N (Increased Risk)
+ - external_emails (Increased Risk)
+ - attachments_sent (Increased Risk)
+ - total_emails (Increased Risk)
+ - O (Increased Risk)
